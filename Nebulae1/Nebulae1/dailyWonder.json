@@ -1,0 +1,40 @@
+{
+  "dailyWonder": [
+    {
+      "date": "2026-02-05T09:41:00Z",
+      "neighbour_text": "A giant asteroid named (433) Ceras is set to make a 'close approach' to Earth. This isn't a tiny pebble but a true 'flying mountain' estimated at 35 kilometers (22 miles) wide. To give you a sense of scale, that's more than double the entire width of Liechtenstein.",
+      "neighbour_title": "Ceras",
+      "fact_text": "Deep within the swirling, azure chaos of Neptune's atmosphere, the weather isn't just extreme—it's extravagant. Imagine a sky where lightning splits the air 10,000 times a second, creating unimaginably high pressures and temperatures. In this cosmic forge, methane gas is torn apart, squeezing its carbon atoms into solid, glittering crystals. These are not hailstones but pure diamonds, which then slowly rain down through the planet's deep, slushy mantle. This spectacular, hidden wealth makes Neptune the solar system's most glamorous, and violent, jeweler.",
+      "fact_title": "Yes! It rains diamonds on Neptune",
+      "fact_image_url": "neptune_diamonds_img"
+    }
+  ],
+  "spaceHistory": [
+    {
+      "history_id": "103",
+      "date": "1967-02-05",
+      "description": "Lunar Orbiter 3 was launched by NASA. Its primary mission was to photograph the lunar surface to help identify safe landing sites for the upcoming Apollo missions."
+    },
+    {
+      "history_id": "101",
+      "date": "1971-02-05",
+      "description": "The Apollo 14 Lunar Module 'Antares' successfully landed on the Moon in the Fra Mauro formation. Astronauts Alan Shepard and Edgar Mitchell became the 5th and 6th humans to walk on the lunar surface."
+    },
+    {
+      "history_id": "102",
+      "date": "1974-02-05",
+      "description": "NASA's Mariner 10 spacecraft made its closest approach to Venus. It was the first spacecraft to use the 'gravity assist' technique, using Venus's gravity to sling itself towards Mercury."
+    },
+    {
+      "history_id": "105",
+      "date": "1987-02-05",
+      "description": "The Soyuz TM-2 mission launched from Baikonur Cosmodrome, carrying cosmonauts Yuri Romanenko and Aleksandr Laveykin to the Mir space station for a long-duration expedition."
+    },
+    {
+      "history_id": "104",
+      "date": "2002-02-05",
+      "description": "NASA launched the Reuven Ramaty High Energy Solar Spectroscopic Imager (RHESSI). This observatory was designed to explore the physics of particle acceleration and energy release in solar flares."
+    }
+  ]
+}
+
